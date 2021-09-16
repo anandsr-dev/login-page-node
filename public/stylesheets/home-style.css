@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    justify-content: end;
+}
+h1{
+    margin:20px 0;
+    text-align: center;
+}
+.cards{
+    display: flex;
+    margin-top: 40px;
+    padding: 10px 20px;
+}
+.card{
+    margin: 0 10px;
+}
+
+.card-title{
+    text-align: center;
+}
